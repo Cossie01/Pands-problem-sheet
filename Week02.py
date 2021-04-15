@@ -1,5 +1,7 @@
 #Author:Ciara O'Sullivan
 #My Solution to Week 2
+#Week 2 - $ python bmi.py
+#Program that asks the user for input about name, age and weight. The out put is the calculation of the persons bmi
 
 
 print("Hello World!")
@@ -21,7 +23,7 @@ height = input("Finally, may I have your height please?: ")
 print("Ok, your height is " +str(height))
 
 #Outputing the BMI
-BMI = int(weight) * int(height)
+BMI = int(weight) * int(height) #multiplying two integers
 print ("Overall your BMI is " +str(BMI) + " "+ "for your age!") 
 
 #Final Output/Goodbye

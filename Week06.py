@@ -11,3 +11,8 @@ def main(): #setting up the function
     print (b) #printing the outcome
 
 main() #calling the function
+
+
+num = float(input("May I have a number please? ")) #ask for input and placing it as a float
+num_Squared = num ** 0.5 #square root of a number is multiply itself or by half
+print(" The answer is ", num_Squared) #final output

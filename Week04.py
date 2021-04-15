@@ -1,5 +1,6 @@
 #Week 4 - $ python collatz.py
 #Author: Ciara O Sullivan 
+#Write a program that asks the user to input any positive integer and outputs the successive values of the following calculation
 
 
 
